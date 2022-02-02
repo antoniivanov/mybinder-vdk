@@ -3,3 +3,4 @@ quickstart-vdk
 
 # necessary for sql in jupyter
 ipython-sql
+jupyterlab_sql
