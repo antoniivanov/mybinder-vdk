@@ -1,0 +1,13 @@
+{
+    "InteractiveShell": {
+        "colors": "LightBG",
+    },
+    "InteractiveShellApp": {
+        "extensions": [
+            "myextension"
+        ]
+    },
+    "TerminalInteractiveShell": {
+        "editor": "nano"
+    }
+}
