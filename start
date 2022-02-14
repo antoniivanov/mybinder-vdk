@@ -4,7 +4,7 @@
 export VDK_SQLITE_FILE=/tmp/my-db.db
 export DATABASE_URL=sqlite:////tmp/my-db.db
 export VDK_API_TOKEN=FQue3EehGQUKIwMJ5hlxwjrYL0j9BfigV87R2QbQXzrpEba1dOwbbrHax11Q3O98
-export VDK_CONTROL_SERVICE_REST_API_URL=http://ac6502b637b6641b9bbb6ca95c2df190-1965366291.us-west-1.elb.amazonaws.com:8092
+#export VDK_CONTROL_SERVICE_REST_API_URL=http://ac6502b637b6641b9bbb6ca95c2df190-1965366291.us-west-1.elb.amazonaws.com:8092
 export VDK_API_TOKEN_AUTHORIZATION_URL=https://console-stg.cloud.vmware.com/csp/gateway/am/api/auth/api-tokens/authorize
 
 exec "$@"
