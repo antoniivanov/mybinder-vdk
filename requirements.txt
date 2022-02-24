@@ -5,6 +5,7 @@ vdk-trino
 # necessary for sql in jupyter
 ipython-sql
 jupyterlab_sql
+jupyterlab-git
 
 streamlit
 jupyter-server-proxy
