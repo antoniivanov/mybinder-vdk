@@ -1,1 +1,1 @@
-create table hello_table (id varchar)
+create table if not exists hello_table (id varchar)
